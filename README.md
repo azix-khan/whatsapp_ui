@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![Activity - Azix Khan](https://github.com/azix-khan/whatsapp_ui/assets/138978130/8afbeb09-8706-4b78-9961-a91785328b51)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
